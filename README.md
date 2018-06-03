@@ -14,5 +14,5 @@ splithci -d[dst file dir] -s[src file] -l[MAX file length]
 -s指定了源hci文件
 -l制定了分割的文件的大小，单位是1KB
 
-最终的文件大小会尽可能的贴近1KB****l
+最终的文件大小会尽可能的贴近1KB*l
 
