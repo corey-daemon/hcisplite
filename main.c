@@ -85,7 +85,7 @@ int ParseArgv(int argc, char** argv, char* srchcifilepath, \
                 printf("\
 splite btsnoop_hci.log\n\
 splithci -h  for help\n\
-splithci -d:[src file path] -s:[des file dir] -l:[MAX file length]\
+splithci -s[src file path] -d[des file dir] -l[MAX file length]\
 \n");
                 return -1;
             case 's':
